@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+footer {
+  margin: 0 auto; /* This centers any block element horizontally */
+  max-width: 200px;
+}
+
+nav {
+  display: flex;          
+  justify-content: center; 
+  align-items: center;     
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 15px; 
+}
+
